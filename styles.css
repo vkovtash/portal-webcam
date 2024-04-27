@@ -9,9 +9,9 @@ div.container {
 }
 
 video {
-  width: 1980px;
-  height: 1440px;
+  width: 990px;
+  height: 720px;
   position: absolute;
-  top: 0px;
+  top: -180px;
   left: 0px;
 }
