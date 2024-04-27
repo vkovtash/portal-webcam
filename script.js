@@ -33,3 +33,4 @@ function enterFullscreen() {
 }
 
 startVideo();
+enterFullscreen();
