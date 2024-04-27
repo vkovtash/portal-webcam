@@ -7,7 +7,7 @@ function startVideo() {
   constraints.audio.echoCancellation = false
   constraints.audio.autoGainControl = false
   constraints.audio.googAutoGainControl = false
-  constraints.audio.noiseSuppression = true
+  constraints.audio.noiseSuppression = false
 
   console.log({ constraints });
   
