@@ -1,10 +1,6 @@
-const urlParams = new URLSearchParams(window.location.search);
-const videoDeviceId = urlParams.get("deviceId");
-const audioDeviceId = urlParams.get("audioDeviceId");
-
 function startVideo() {
   const constraints = {
-    video: { width: 1920, height: 1080 },
+    video: { width: 1920, height: 1440 },
     audio: true,
   };
   

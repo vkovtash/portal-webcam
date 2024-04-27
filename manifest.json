@@ -1,7 +1,7 @@
 {
-  "short_name": "Portal Webcamp",
-  "name": "Portal Webcamp",
+  "short_name": "Portal Webcam",
+  "name": "Portal Webcam",
   "start_url": "/index.html",
-  "display": "standalone",
+  "display": "fullscreen",
   "orientation": "landscape"
 }
