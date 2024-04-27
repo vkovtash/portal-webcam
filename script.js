@@ -1,6 +1,6 @@
 function startVideo() {
   const constraints = {
-    video: { width: 1920, height: 1440 },
+    video: { width: 990, height: 720 },
     audio: true,
   };
   
