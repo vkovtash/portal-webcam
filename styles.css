@@ -9,5 +9,8 @@ div.container {
 }
 
 video {
-  height: 100%;
+  width: 100%;
+  position: absolute;
+  top: -360px;
+  left: 0px;
 }
