@@ -1,0 +1,7 @@
+{
+  "short_name": "Portal Webcamp",
+  "name": "Portal Webcamp",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "orientation": "landscape"
+}
